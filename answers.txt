@@ -1,0 +1,2 @@
+الElement المستخدم لعنوان الBrowser Tab هو title
+الElement المستخدم للعنوان الرئيسي هو h1
